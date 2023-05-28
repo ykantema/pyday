@@ -1,2 +1,2 @@
-user = 'yedidyak'
-pwd = 'Hshshv336('
+user = ''
+pwd = ''
